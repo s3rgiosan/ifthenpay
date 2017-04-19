@@ -1,0 +1,35 @@
+{
+  "name": "s3rgiosan/ifthenpay-helpers",
+  "description": "IfthenPay PHP helper classes.",
+  "type": "library",
+  "keywords": [
+    "ifthenpay",
+    "multibanco",
+    "helpers",
+    "library"
+  ],
+  "homepage": "https://github.com/s3rgiosan/ifthenpay-helpers",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Sérgio Santos",
+      "email": "me@s3rgiosan.com",
+      "homepage": "https://github.com/s3rgiosan"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/s3rgiosan/ifthenpay-helpers/issues",
+    "source": "https://github.com/s3rgiosan/ifthenpay-helpers"
+  },
+  "autoload": {
+    "psr-4": {
+      "s3rgiosan\\IfthenPay\\": "lib/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "s3rgiosan\\Tests\\IfthenPay\\": "tests/"
+    }
+  },
+  "require-dev": {}
+}

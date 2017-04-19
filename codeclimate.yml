@@ -1,0 +1,22 @@
+---
+engines:
+  phpcodesniffer:
+    enabled: true
+    config:
+      standard: "phpcs.xml"
+  fixme:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - php
+  phpmd:
+    enabled: true
+ratings:
+  paths:
+  - "**.php"
+exclude_paths:
+- "spec/"
+- "tests/"
+- "vendor/**/*"

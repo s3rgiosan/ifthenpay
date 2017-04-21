@@ -9,7 +9,7 @@
     "library"
   ],
   "homepage": "https://github.com/s3rgiosan/ifthenpay-helpers",
-  "license": "GPL-2.0+",
+  "license": "MIT",
   "authors": [
     {
       "name": "Sérgio Santos",

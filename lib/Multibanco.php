@@ -6,7 +6,7 @@
  * @since 1.0.0
  */
 
-namespace s3rgiosan\IfthenPay;
+namespace s3rgiosan\IfthenPay\Helpers;
 
 /**
  * IfthenPay Multibanco helper class.

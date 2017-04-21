@@ -23,13 +23,14 @@
   },
   "autoload": {
     "psr-4": {
-      "s3rgiosan\\IfthenPay\\": "lib/"
+      "s3rgiosan\\IfthenPay\\Helpers\\": "lib/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "s3rgiosan\\Tests\\IfthenPay\\": "tests/"
+      "s3rgiosan\\Tests\\IfthenPay\\Helpers\\": "tests/"
     }
   },
+  "require": {},
   "require-dev": {}
 }

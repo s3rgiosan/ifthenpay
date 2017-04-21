@@ -1,5 +1,5 @@
 {
-  "name": "s3rgiosan/ifthenpay-helpers",
+  "name": "s3rgiosan/ifthenpay",
   "description": "IfthenPay PHP helper classes.",
   "type": "library",
   "keywords": [
@@ -8,7 +8,7 @@
     "helpers",
     "library"
   ],
-  "homepage": "https://github.com/s3rgiosan/ifthenpay-helpers",
+  "homepage": "https://github.com/s3rgiosan/ifthenpay",
   "license": "MIT",
   "authors": [
     {
@@ -18,8 +18,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/s3rgiosan/ifthenpay-helpers/issues",
-    "source": "https://github.com/s3rgiosan/ifthenpay-helpers"
+    "issues": "https://github.com/s3rgiosan/ifthenpay/issues",
+    "source": "https://github.com/s3rgiosan/ifthenpay"
   },
   "autoload": {
     "psr-4": {

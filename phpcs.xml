@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ruleset name="The s3rgiosan's PHPCS custom ruleset.">
+<ruleset name="s3rgiosan">
 
   <exclude-pattern>*/phpunit.xml*</exclude-pattern>
   <exclude-pattern>*/tests/*</exclude-pattern>

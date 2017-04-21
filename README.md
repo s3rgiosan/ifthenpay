@@ -5,13 +5,13 @@
 ## Install
 
 ```bash
-$ composer require s3rgiosan/ifthenpay-helpers
+$ composer require s3rgiosan/ifthenpay
 ```
 
 ## Usage
 
 ```php
-use s3rgiosan\IfthenPay\Multibanco;
+use s3rgiosan\IfthenPay\Helpers\Multibanco;
 
 class FooBar {
     public function process_payment() {
